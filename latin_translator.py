@@ -14,5 +14,3 @@ for j in updated_user_input:
   print(j)
  else:
   pass
-
-########
